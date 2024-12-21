@@ -1,8 +1,3 @@
-# Subtitle-Synchronizer
-
-```markdown
-# Subtitle Synchronizer
-
 ## Overview
 Subtitle Synchronizer is a Flask-based web application that allows users to upload a video file, extract subtitles, and adjust the timing of the subtitles based on a user-specified offset. The synchronized subtitles can then be downloaded.
 
@@ -101,6 +96,3 @@ This project is licensed under the MIT License.
 - [Flask](https://flask.palletsprojects.com/)
 - [ffmpeg](https://ffmpeg.org/)
 - [pysrt](https://pypi.org/project/pysrt/)
-
-```
-
